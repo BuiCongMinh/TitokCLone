@@ -1,0 +1,4 @@
+- [] Login, Resgister (very basic)!
+- [] get videos (filter)
+- [] like
+- [] follow

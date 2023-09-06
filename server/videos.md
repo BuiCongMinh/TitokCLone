@@ -1,0 +1,8 @@
+
+- https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c002/oUSFTn0QEJeGBeVbEQZIAJkm23RY5AymDIOBWr/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=1374&bt=687&cs=0&ds=6&ft=_RwJrBgkq8ZmonJxBc_vjAHBJAhLrus&mime_type=video_mp4&qs=0&rc=aHIxaDFybndmM2lkaDk3O2hkNTMzOTllN0BpMzx2O2Y6Zjg5bTMzNzczM0BvYF90aHFmOiNiNjA1MGMxXzYxYV4uYWNeYSMubC1lcjRfbmZgLS1kMTZzcw%3D%3D&btag=e00088000&expire=1693918389&l=20230905065258E0749FCA48639C105868&ply_type=2&policy=2&signature=45cf6086408ad01b4d6baf2f1a603a70&tk=tt_chain_token
+
+
+
+
+- https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ociC7eQ3qfyVABQFkkJIVagBlhIxNBwzE0UwVm/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=2692&bt=1346&cs=0&ds=6&ft=_RwJrBgkq8Zmo7rxBc_vjR647AhLrus&mime_type=video_mp4&qs=0&rc=aHIxaDFybndmNzk8PGQ6MzhkODRlOzw4ZEBpamptaDw6Zjc4bTMzODgzNEBvYF90aHFmOiM2My5iXzM0Ni0xLS5gYzJgYSNeMnBpcjQwMm5gLS1kLy1zcw%3D%3D&btag=e00088000&expire=1693918793&l=2023090506594590C4D0415C4F220F87B5&ply_type=2&policy=2&signature=16d1629019889d591523c6b41defc0fb&tk=tt_chain_token
+- https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oQHyAQ0Bh8afbL4AXwQIaN0pIBzVzAQMCNDEso/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=2664&bt=1332&cs=0&ds=6&ft=3.u4FZzI0PD12-FdZt3wUnxN5SHEg9N1OUlc&mime_type=video_mp4&qs=0&rc=bmQxaDFwekApMzg2NjxnZmU8N2k0OWg3NGcpOXF0dHg6NjQ7ZjMzajczeXlgbV90YmJeYDYwXjMxLjJeLzJhMzYxLy86Y2RgaWBgNGByYmctLTIxLS46&btag=e00088000&expire=1694070000&l=20230905065949F8D4234B10E27C107455&ply_type=2&policy=2&signature=a86f9a9f3d36c771f0f4f9be9399670b&tk=tt_chain_token
